@@ -1,3 +1,9 @@
+# ESP32-POE-extended
+
+> [!NOTE]  
+> This repository is the same as the official ESP32-PoE repository but with additional comments for beginners.
+> Maybe Olimex will merge some of those comments to help their new users...
+
 # ESP32-POE
 
 ESP32-PoE is an IoT WIFI/BLE/Ethernet development board with Power-Over-Ethernet feature.
